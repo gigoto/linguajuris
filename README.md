@@ -1,5 +1,5 @@
 # LinguaJuris
-Code for http://www.linguajuris.org
+Code for <https://www.linguajuris.org>
 
 Copyright [CBTI/BKVT][cbti] © 2015
 
